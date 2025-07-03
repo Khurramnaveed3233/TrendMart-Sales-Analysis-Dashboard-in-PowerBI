@@ -121,4 +121,5 @@ This project delivers a dynamic sales analytics dashboard for **TrendMart**, a f
 I'm a **Data Analyst** with hands-on experience in Power BI, SQL, and Excel. I enjoy turning raw data into meaningful business decisions and performance dashboards. This project is part of my growing portfolio in business intelligence and analytics.
 
 📫 LinkedIn : https://www.linkedin.com/in/khurram-naveed-0083851aa/ 
+
 Email: khurramnaveed4545@gmail.com
